@@ -53,16 +53,11 @@ The ultrasonic sensor continuously measures the distance to nearby objects.
 
 As an object gets closer, the buzzer beeps faster and the LCD displays the current system status.
 
-## Arduino Code
-
-Upload the provided Arduino sketch using the Arduino IDE.
-
 ## Project Demo
+<img width="1080" height="635" alt="photo_2026-06-25_22-45-10" src="https://github.com/user-attachments/assets/9f55122a-6ac0-4df4-a48d-cd60985c4173" />
 
-Watch the project demonstration video and test the system by moving an object toward the sensor.
+📺 Demonstration Video
+Watch the complete project build and demonstration on YouTube:
 
-## Author
-ProjectVerse
-## License
-MIT License
+▶https://youtu.be/Hjc9VmmjimQ?si=QvqoZpFSKGUm_vb4
 
